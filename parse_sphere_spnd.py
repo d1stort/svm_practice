@@ -755,8 +755,7 @@ for i in corpus:
            sport.append(i)
            result = None
 		   
-print(t)
-		   
+	   
 l=0
 for i in gos:
  file = open('sphere_spending_test/government/0'+str(l)+'.txt', 'w', encoding='utf-8')
